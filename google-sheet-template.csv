@@ -1,0 +1,13 @@
+id,name,unit,category,price,available
+gro-01,Organic Atta,5 kg pack,Groceries,420,TRUE
+gro-02,Toor Dal,1 kg pack,Groceries,165,TRUE
+gro-03,Coffee Powder,500 g,Groceries,280,TRUE
+fru-01,Banana,1 dozen,Fruits,75,TRUE
+fru-02,Apple,1 kg,Fruits,180,TRUE
+fru-03,Papaya,1 piece,Fruits,60,FALSE
+veg-01,Tomato,1 kg,Vegetables,40,TRUE
+veg-02,Spinach,1 bundle,Vegetables,30,TRUE
+veg-03,Carrot,1 kg,Vegetables,70,TRUE
+dai-01,Milk,1 L,Dairy Products,58,TRUE
+dai-02,Curd,500 g,Dairy Products,45,TRUE
+dai-03,Paneer,200 g,Dairy Products,95,FALSE
