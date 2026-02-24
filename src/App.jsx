@@ -137,8 +137,8 @@ function App() {
   };
 
   const openWhatsApp = (text) => {
-    const sanitized = business.phone.replace('+', '');
-    window.open(`https://wa.me/${sanitized}?text=${encodeURIComponent(text)}`, '_blank', 'noopener');
+    const whatsappNumber = '9666136942';
+    window.open(`https://wa.me/${whatsappNumber}?text=${encodeURIComponent(text)}`, '_blank', 'noopener');
   };
 
   const handleCartOrder = () => {
